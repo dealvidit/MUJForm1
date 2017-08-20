@@ -4,10 +4,10 @@
 
 
 # To do:
-[x] Create the basic form structure
-[x] Add the first few pages
-[ ] Create the dynamic js tables
-[ ] Fully complete the project
+- [x] Create the basic form structure
+- [x] Add the first few pages
+- [ ] Create the dynamic js tables
+- [ ] Fully complete the project
 
 ## Instructions to use: 
 > Needs Node.js and the Node Package Manager.

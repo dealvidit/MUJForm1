@@ -2,6 +2,7 @@
 
 > A vue-based (with the vue-material framework) job application form for Manipal University, Jaipur
 
+![Image of Yaktocat](https://image.ibb.co/gwooE5/screencapture_localhost_8080_1503254626374.png)
 
 # To do:
 - [x] Create the basic form structure

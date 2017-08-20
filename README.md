@@ -13,29 +13,29 @@
 > Needs Node.js and the Node Package Manager.
 
 
-### Install the vue command-line interface first :
+### 1. Install the vue command-line interface first :
 ```
 npm install -g vue-cli
 ```
 
-### Initialize a vue webpack build by the following command :
+### 2. Initialize a vue webpack build by the following command :
 ```
 vue init webpack vuejs-md
 ```
 
-### cd to your build directory and run :
+### 3. cd to your build directory and run :
 ```
 npm install
 ```
 
-### Now install and add the vue-material framework to your vue webpack build :
+### 4. Now install and add the vue-material framework to your vue webpack build :
 ```
 npm install vue-material --save
 ```
 
-### Now Clone/Download this repository and replace the files give in your base build
+### 5. Clone/Download this repository and replace the files given in your base build.
 
-### Finally, run your local-server with
+### 6. Finally, run your local-server with :
 ```
 npm run dev
 ```

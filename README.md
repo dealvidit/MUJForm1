@@ -21,7 +21,7 @@ npm install -g vue-cli
 
 ### 2. Initialize a vue webpack build by the following command :
 ```
-vue init webpack vuejs-md
+vue init webpack PROJECTNAMEHERE
 ```
 
 ### 3. cd to your build directory and run :
